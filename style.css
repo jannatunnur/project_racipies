@@ -24,6 +24,14 @@ body{
 		border-radius:10px;
 		
 }
-h4,h5{
+h4,h5,.fa-clock{
 	padding-left:10px;
+}
+.clock{
+	display:flex;
+	
+	align-items:center;
+}
+.fa-clock{
+	margin-right:10px;
 }
