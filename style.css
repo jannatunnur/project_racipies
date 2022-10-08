@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+body{
+	font-family: 'Nunito', sans-serif;
+}
+.box{
+	height:300px;
+	width:300px;
+	background-color:skyblue;
+	margin:10px;
+}
+.box{
+	height:300px;
+	width:300px;
+	background-color:skyblue;
+}
+.box{
+	height:300px;
+	width:300px;
+	background-color:skyblue;
+}
+.prntdiv{
+	display:flex;
+
+}
+.food{
+	height:300px;
+	width:300px;
+}
